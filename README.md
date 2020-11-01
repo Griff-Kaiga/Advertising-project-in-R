@@ -1,5 +1,5 @@
 # Advertising-project-in-R this is my first r project
-this project demonstrates the application of R to perform Exploratory Data Analysis on an advertising dataset. 
+This project demonstrates the application of R to perform Exploratory Data Analysis on an advertising dataset. 
 
 
 ## Project Description
